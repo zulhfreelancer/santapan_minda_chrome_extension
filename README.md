@@ -1,6 +1,6 @@
 ## Santapan Minda Chrome Extension
 
-![](http://i.imgur.com/eMdVKCL.jpg)
+![](http://i.imgur.com/XCHlhft.png)
 
 ### How to install?
 
